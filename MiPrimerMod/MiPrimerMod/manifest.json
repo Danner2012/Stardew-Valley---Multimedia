@@ -1,0 +1,10 @@
+{
+  "Name": "Mi Primer Mod",
+  "Author": "Danner Pantoja",
+  "Version": "1.0.0",
+  "Description": "Un mod de prueba para  SMAPI.",
+  "UniqueID": "Danner.MiPrimerMod",
+  "EntryDll": "MiPrimerMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

@@ -1,0 +1,4 @@
+C:\Users\Danner Pantoja\source\repos\MiPrimerMod\MiPrimerMod\bin\Debug\MiPrimerMod.dll
+C:\Users\Danner Pantoja\source\repos\MiPrimerMod\MiPrimerMod\obj\Debug\MiPrimerMod.csproj.AssemblyReference.cache
+C:\Users\Danner Pantoja\source\repos\MiPrimerMod\MiPrimerMod\obj\Debug\MiPrimerMod.csproj.CoreCompileInputs.cache
+C:\Users\Danner Pantoja\source\repos\MiPrimerMod\MiPrimerMod\obj\Debug\MiPrimerMod.dll
