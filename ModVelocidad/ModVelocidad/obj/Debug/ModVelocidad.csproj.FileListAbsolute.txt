@@ -1,4 +1,0 @@
-C:\Users\Danner Pantoja\source\repos\ModVelocidad\ModVelocidad\bin\Debug\ModVelocidad.dll
-C:\Users\Danner Pantoja\source\repos\ModVelocidad\ModVelocidad\obj\Debug\ModVelocidad.csproj.AssemblyReference.cache
-C:\Users\Danner Pantoja\source\repos\ModVelocidad\ModVelocidad\obj\Debug\ModVelocidad.csproj.CoreCompileInputs.cache
-C:\Users\Danner Pantoja\source\repos\ModVelocidad\ModVelocidad\obj\Debug\ModVelocidad.dll
