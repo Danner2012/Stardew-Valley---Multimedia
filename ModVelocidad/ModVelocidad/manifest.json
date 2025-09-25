@@ -1,0 +1,9 @@
+{
+  "Name": "Mod de Velocidad",
+  "Author": "Danner Pantoja",
+  "Version": "1.0.0",
+  "Description": "Aumenta la velocidad del jugador al presionar la tecla V.",
+  "UniqueID": "Danner.ModVelocidad",
+  "EntryDll": "ModVelocidad.dll",
+  "MinimumApiVersion": "3.0.0"
+}
