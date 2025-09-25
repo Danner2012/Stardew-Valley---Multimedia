@@ -1,0 +1,4 @@
+C:\Users\Danner Pantoja\source\repos\EfectosBolivianos\EfectosBolivianos\bin\Debug\EfectosBolivianos.dll
+C:\Users\Danner Pantoja\source\repos\EfectosBolivianos\EfectosBolivianos\obj\Debug\EfectosBolivianos.csproj.AssemblyReference.cache
+C:\Users\Danner Pantoja\source\repos\EfectosBolivianos\EfectosBolivianos\obj\Debug\EfectosBolivianos.csproj.CoreCompileInputs.cache
+C:\Users\Danner Pantoja\source\repos\EfectosBolivianos\EfectosBolivianos\obj\Debug\EfectosBolivianos.dll

@@ -1,0 +1,9 @@
+{
+  "Name": "EfectosBolivianos",
+  "Author": "Danne Pantoja",
+  "Version": "1.0.0",
+  "Description": "Mod que te da un buff de velocidad y energía al presionar la tecla V.",
+  "UniqueID": "DannePantoja.EfectosBolivianos",
+  "EntryDll": "EfectosBolivianos.dll",
+  "MinimumApiVersion": "3.0.0"
+}
